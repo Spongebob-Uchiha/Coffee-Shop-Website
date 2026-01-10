@@ -1,4 +1,4 @@
 # Coffee-Shop-Website
 
 -
-- Created
+- Created using HTML, CSS & JS
