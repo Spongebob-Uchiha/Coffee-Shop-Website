@@ -1,4 +1,4 @@
 # Coffee-Shop-Website
 
--
-- Created using HTML, CSS & Java Script
+- A website for a Coffee Shop named **Sunrise Breeders**
+- Created using **HTML**, **CSS** & **Java Script**
