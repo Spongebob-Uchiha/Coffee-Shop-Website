@@ -6,3 +6,5 @@
 - Created using **HTML**, **CSS** & **Java Script**.
 
 ## About it
+
+- index 1 contains a the fuctional website with both HTML & CSS
