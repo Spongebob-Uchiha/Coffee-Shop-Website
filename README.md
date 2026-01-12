@@ -7,4 +7,4 @@
 
 ## About it
 
-- index 1 contains a the fuctional website with both HTML, CSS & Java Script
+- **Index 1** contains the fuctional website with both HTML, CSS & Java Script
