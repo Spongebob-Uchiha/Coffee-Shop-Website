@@ -7,4 +7,4 @@
 
 ## About it
 
-- **Index 1** contains the fuctional website with both HTML, CSS & Java Script. Was the first to created contain few styles 
+- **Index 1** contains the fuctional website with both HTML, CSS & Java Script. Was the first Sunrise Breeders website to be created containing few styles 
