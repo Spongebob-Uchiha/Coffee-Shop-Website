@@ -9,4 +9,4 @@
 
 - **Index 1** contains the fuctional website with both HTML, CSS & Java Script inside. Was the first Sunrise Breeders website to be created containing few styles and few categories of Food products.
 - **Index 2** contains the copy of the website with both HTML, CSS & Java Script inside, with a little bit of improvement on the CSS of the website from **Index 1** making it look a bit beatifully structured.
-- **Index 3** 
+- **Index 3** contains the copy of the website with both HTML, CSS & Java Script with an improvement on additional items being added on the Menu.
